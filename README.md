@@ -1,5 +1,5 @@
 # Check RPKI Status
-Python3 script to check RPKI status of prefixes
+Python3 script that takes in a prefix and connects to the RIPE's RIS (Routing Information Service) API to get info about what ASN is announcing the prefix and get its RPKI validation state
 
 You can run it on a text file with a bunch of prefixes like this: 
 ```
