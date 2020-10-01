@@ -1,5 +1,5 @@
-# check_rpki_status
-Script to check RPKI status of prefixes
+# Check RPKI Status
+Python3 script to check RPKI status of prefixes
 
 You can run it on a text file with a bunch of prefixes like this: 
 ```
